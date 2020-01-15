@@ -1,0 +1,19 @@
+{
+  "SUPPRESS_NO_CONFIG_WARNING": true,
+  "jwtSecrets": {
+    "emailSecret": "fdg5y45ujdu54y34t3tge4rye4yretd4eay4",
+    "jwtSecret": "gday4a7e46353w5yhduhj5854634564e6te4734tagdgsfggdhbfgmnghlyhgljr",
+    "passwordSecret": "passterte4teyarn585n7n5a7y5u5uy5y4eyn4eayhyh4re7y4eay4wd"
+  },
+  "emailConfig": {
+    "email": "mailerbot735@gmail.com",
+    "emailPassword": "Botmailer"
+  },
+  "postgresConfig": {
+    "user": "ebjesmcrrembnp",
+    "host": "ec2-107-21-214-222.compute-1.amazonaws.com",
+    "database": "dahj5td5onj4rj",
+    "password": "f8c049435c7d0b998452773e9c3dc5f4a9544825af5368843e4b25db2dffbccb",
+    "port": 5432
+  }
+}

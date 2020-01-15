@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+.container{
+  text-align: center;
+}
+
+.loader {
+  position:fixed;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+nav{
+  background-color: #26a69a;
+}
+
+.main_nav{
+  padding: 1.5rem .5rem;
+  background-color: black;
+  ul{
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    li{
+      margin: 0 1rem;
+      a{
+        text-decoration: none;
+        transition: .1s linear all;
+        color: white;
+        font-weight: bold;
+        &:hover{
+          color: #ddd
+        }
+      }
+      &:last-child{
+        margin-right: 4rem;
+      }
+    }
+  }
+}

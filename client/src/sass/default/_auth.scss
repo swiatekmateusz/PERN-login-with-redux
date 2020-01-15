@@ -1,0 +1,39 @@
+.auth{
+  margin: 2rem 0;
+
+  h4{
+    margin-bottom: 2rem;
+  }
+  form{
+    margin: 0 auto;
+    max-width: 250px;
+    text-align: center;
+    h1{
+      margin-bottom: 2rem;
+      font-size: 3rem;
+    }
+    .field{
+      margin: .5rem 0;
+      display: flex;
+      justify-content: space-between;
+      input{
+        width: 50%;
+        align-self: flex-end;
+      }
+    }
+    button{
+      margin-left: 1rem;
+      margin-top: 1.2rem;
+      margin-bottom: 1.2rem;
+    }
+    a{
+      display: block;
+      text-decoration: none;
+      color: black;
+      transition: .1 linear all;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+  }
+}

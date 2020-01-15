@@ -1,0 +1,19 @@
+{
+  "SUPPRESS_NO_CONFIG_WARNING": true,
+  "jwtSecrets": {
+    "emailSecret": "sdfasf",
+    "jwtSecret": "xdfdsf",
+    "passwordSecret": "passwd"
+  },
+  "emailConfig": {
+    "email": "mailerbot735@gmail.com",
+    "emailPassword": "Botmailer"
+  },
+  "postgresConfig": {
+    "user": "postgres",
+    "host": "localhost",
+    "database": "postgres",
+    "password": "admin",
+    "port": 5432
+  }
+}
