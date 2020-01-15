@@ -10,10 +10,10 @@
     "emailPassword": "Botmailer"
   },
   "postgresConfig": {
-    "user": "ebjesmcrrembnp",
-    "host": "ec2-107-21-214-222.compute-1.amazonaws.com",
-    "database": "dahj5td5onj4rj",
-    "password": "f8c049435c7d0b998452773e9c3dc5f4a9544825af5368843e4b25db2dffbccb",
+    "user": "faalhmwuzokiyt",
+    "host": "ec2-54-247-189-1.eu-west-1.compute.amazonaws.com",
+    "database": "d6ltrsul5422i0",
+    "password": "634272ff959fbdb486383cfe29a21d10d4dd4acbf9d7147892b38cc29187e1db",
     "port": 5432
   }
 }
